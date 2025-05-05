@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BNPL Furniture",
+    "description": "",
+    "home_page_url": "https://bnpl-six.vercel.app",
+    "feed_url": "https://bnpl-six.vercel.app/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alizz"
+    },
+    "items": [
+    ]
+}
